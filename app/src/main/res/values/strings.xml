@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="share_title">You complete</string>
+    <string name="share_detail">something goode</string>
+    <string name="share">Share</string>
+</resources>
